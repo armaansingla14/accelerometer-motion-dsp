@@ -1,0 +1,5 @@
+model,features,n_features,train_windows,test_windows,accuracy,macro_f1
+rf,dsp,53,5745,2457,0.927961,0.919747
+rf,baseline_raw_stats,12,5745,2457,0.914123,0.903731
+logreg,dsp,53,5745,2457,0.807896,0.7986
+logreg,baseline_raw_stats,12,5745,2457,0.758242,0.748974

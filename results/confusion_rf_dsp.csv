@@ -1,0 +1,6 @@
+true\pred,idle,straight,turn,bump,slip
+idle,592,1,0,0,0
+straight,1,368,3,22,1
+turn,0,0,524,0,0
+bump,1,143,1,340,2
+slip,0,0,2,0,456
